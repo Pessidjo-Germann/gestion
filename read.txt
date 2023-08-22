@@ -2,4 +2,8 @@ Welcome to this workspace!
 
 Just code!
 
+L'objectif du projet:
+			Implementer une application de gestion de stagiaire de A a Z dans le cadre de
+  			la formation a visionPub.
+
 Build by PESSIDJO GERMANN 
